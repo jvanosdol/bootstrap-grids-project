@@ -8,3 +8,12 @@ main>.container {
     bottom: 0;
     width: 100%;
 }
+
+.homeBg {
+    width: 100%;
+    background: url("/img/GridBG.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
