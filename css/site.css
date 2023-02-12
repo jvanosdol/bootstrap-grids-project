@@ -7,6 +7,7 @@ main>.container {
     left: 0;
     bottom: 0;
     width: 100%;
+    background: rgb(100,200,100);
 }
 
 .homeBg {
@@ -16,4 +17,15 @@ main>.container {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+}
+
+.homeText {
+    font-family: modesto-open-shadow, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(195, 255, 0);
+}
+
+.minHeight {
+    min-height: 80vh;
 }
