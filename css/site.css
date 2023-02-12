@@ -19,6 +19,11 @@ main>.container {
     background-attachment: fixed;
 }
 
+body > main {
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
 .homeText {
     font-family: modesto-open-shadow, sans-serif;
     font-weight: 400;
@@ -28,4 +33,8 @@ main>.container {
 
 .minHeight {
     min-height: 80vh;
+}
+
+.maxHeight {
+    max-height: 50vh;
 }
