@@ -3,7 +3,7 @@ main>.container {
     margin-bottom: 5rem;
 }
 
-main>.container-fluid {
+main>.container-lg {
     padding-top: 60px;
 }
 .sticky-footer {
